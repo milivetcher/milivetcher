@@ -72,10 +72,6 @@ completar
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=milivetcher&show_icons=true&locale=en&layout=compact" alt="carlossalvadordiaz" /></p>
-
-
-
 #### Contact Me 📲
 
 
@@ -84,6 +80,6 @@ completar
 <a href="https://www.linkedin.com/in/milagros-vetcher-369b01123/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="mili vetcher" height="30" width="30" />linkedin</a>
 
 
-<a href="mailto:milivetchergmail.com " target="blank"><img align="center" src="https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1.png" alt="mili vetcher" height="40" width="70" />milivetcher@gmail.com</a>
+<a href="mailto:milivetchergmail.com " target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" alt="mili vetcher" height="30" width="40" />milivetcher@gmail.com</a>
 </p>
 
