@@ -68,7 +68,7 @@ _____
 
 
 #### Some of my projects:
-<a href="https://pf-03-cointracker.vercel.app/" target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
+<a href="https://pf-03-cointracker.vercel.app/" target="_blank"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/Imagen1.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
 
 
 
