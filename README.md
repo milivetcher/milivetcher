@@ -36,22 +36,17 @@ ___
 ##### Programming languages
 
 
-<p align="left"> <li> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="25" height="25"/></a> JavaScript</li> <li> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="typescript" width="25" height="25"/> </a> TypeScript</a>
-</p>
+<li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="25" height="25"/></a> JavaScript</li> <li> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="typescript" width="25" height="25"/> </a> TypeScript</a>
 
 
-____
+
 
 
 ##### FrontEnd Development
 
 
-<p align="left"><li>
+<li>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="reactjs" width="29" height="25"/> </a>React.js</li> <li><a href="https://getbootstrap.com" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="bootstrap" width="25" height="25"/> </a> Boostrap</li> <li><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" alt="css3" width="25" height="25"/> </a> CSS3 </li> <li> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" alt="html5" width="30" height="30"/> </a> HTML5</li>
-</p>
-
-
-____
 
 
 ##### Backend Development
@@ -59,8 +54,6 @@ ____
 <a href="https://nodejs.org/en//" target="_blank"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" alt="mongodb" width="50" height="25"/> </a> Node.js</li> <li><a href="https://expressjs.com" target="_blank"> </a> Express.js</li>
 </p>
 
-
-_____
 
 
 ##### Database
@@ -88,9 +81,9 @@ completar
 
 
 
-<a href="https://linkedin.com/in/carlos-salvador-513a7b122/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlos salvador díaz" height="30" width="40" />linkedin</a>
+<a href="https://www.linkedin.com/in/milagros-vetcher-369b01123/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="mili vetcher" height="30" width="30" />linkedin</a>
 
 
-<a href="mailto:csalvadordiaz689@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="carlos salvador díaz" height="30" width="40" />csalvadordiaz689@gmail.com</a>
+<a href="mailto:milivetchergmail.com " target="blank"><img align="center" src="https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1.png" alt="mili vetcher" height="40" width="70" />milivetcher@gmail.com</a>
 </p>
 
