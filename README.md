@@ -55,7 +55,8 @@ ____
 
 
 ##### Backend Development
-<p align="left"> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="65" height="65"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/> </a>
+<p align="left"> <li>
+<a href="https://nodejs.org/en//" target="_blank"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" alt="mongodb" width="50" height="25"/> </a> Node.js</li> <li><a href="https://expressjs.com" target="_blank"> </a> Express.js</li>
 </p>
 
 
@@ -63,31 +64,18 @@ _____
 
 
 ##### Database
-<p align="left"> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="65" height="65"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="65"/> </a> 
-<a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="65" height="65"/> </a>
+<p align="left"> <li>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="mysql" width="40" height="40"/> </a> MySQL</li><li>
+<a href="https://mariadb.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="mariadb" width="25" height="25"/> </a> PostgreSQL</li><li><a href="https://www.mongodb.com/es" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/385-3850320_png-transparent-mongodb-icon-mongodb-logo-png-download.png" alt="mongodb" width="40" height="40"/> </a> MongoDB
+ </li>
  </p>
 
 
 _____
 
 
- ##### Others
- <p align="left"> 
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="65" height="65"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/>  </a>
-  </p>
+#### Some of my projects:
 
-
-#### Algunos de mis proyectos:
-
-
-
-| notFoundResponsive  | rockPaperScissors  | toDoSimple  |
-|---|---|---|
-| <a href="https://github.com/carlossalvadordiaz/404-not-found" target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> |  <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
 
 
 
