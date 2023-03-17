@@ -71,8 +71,11 @@ _____
 ##### Individual Project
 <a href="https://youtu.be/eWT2gFe_i_c" target="_blank"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/Imagen1.png" width="200" height="150"/></a>  <a href="https://youtu.be/eWT2gFe_i_c" target="_blank"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/Imagen2.png" width="200" height="150"/></a>  <a href="https://youtu.be/eWT2gFe_i_c" target="_blank"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/Imagen3.png" width="200" height="150"/></a>   <a href="https://youtu.be/eWT2gFe_i_c" target="_blank"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/Imagen4.png" width="200" height="150"/></a> 
 
-##### Grupal Project COINTRACKER
+##### Grupal Projects:
+#### COINTRACKER
   <a href="https://pf-03-cointracker.vercel.app/"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/1.png" width="200" height="150"/></a> <a href="https://pf-03-cointracker.vercel.app/" target="_blank"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/4.png" width="200" height="150"/></a>  <a href="https://pf-03-cointracker.vercel.app/" target="_blank"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/7.png" width="200" height="150"/></a><a href="https://pf-03-cointracker.vercel.app/" target="_blank"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/11.png" width="200" height="150"/></a>
+#### Balcaoex
+  
 
 
 
