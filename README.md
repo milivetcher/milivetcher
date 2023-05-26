@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 - Reinforce knowledge about MongoDB, Express.js, NOde.js, React.js, Redux.js, MySQL, PostgreSQL technology stack and new technologies.
 - Consolidate and investigate good practice patterns and development methodologies.
+- Working in freelancing projects.
 
 ___
 
@@ -75,7 +76,7 @@ _____
 #### COINTRACKER
   <a href="https://pf-03-cointracker.vercel.app/"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/1.png" width="200" height="150"/></a> <a href="https://pf-03-cointracker.vercel.app/" target="_blank"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/4.png" width="200" height="150"/></a>  <a href="https://pf-03-cointracker.vercel.app/" target="_blank"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/7.png" width="200" height="150"/></a><a href="https://pf-03-cointracker.vercel.app/" target="_blank"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/11.png" width="200" height="150"/></a>
 #### BALCAOEX
--I participate in this great project, these are just some of its features.
+-I did an internship in <a href="https://www.linkedin.com/company/redocean-software-marketing/">RedOcean</a> for two months and participated in this great project, these are just some of its features.
 🌱(PHP-YII2-JS-MARIADB)🌱<br/><br/>
 <img src="https://github.com/milivetcher/milivetcher/blob/main/images/bl_1.png" width="200" height="150"/><img src="https://github.com/milivetcher/milivetcher/blob/main/images/bl_2.png" width="200" height="150"/></a> <a href="https://pf-03-cointracker.vercel.app/" target="_blank"><img src="https://github.com/milivetcher/milivetcher/blob/main/images/bl_3.png" width="200" height="150"/></a> <a href="https://pf-03-cointracker.vercel.app/" target="_blank"><img src="https://github.com/milivetcher/milivetcher/blob/main/images/bl_4.png" width="200" height="150"/></a> <a href="https://pf-03-cointracker.vercel.app/" target="_blank">
 
