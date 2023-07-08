@@ -79,6 +79,13 @@ _____
 -I did an internship in <a href="https://www.linkedin.com/company/redocean-software-marketing/">RedOcean</a> for two months and participated in this great project, these are just some of its features.
 🌱(PHP-YII2-JS-MARIADB)🌱<br/><br/>
 <img src="https://github.com/milivetcher/milivetcher/blob/main/images/bl_1.png" width="200" height="150"/><img src="https://github.com/milivetcher/milivetcher/blob/main/images/bl_2.png" width="200" height="150"/></a> <a href="https://pf-03-cointracker.vercel.app/" target="_blank"><img src="https://github.com/milivetcher/milivetcher/blob/main/images/bl_3.png" width="200" height="150"/></a> <a href="https://pf-03-cointracker.vercel.app/" target="_blank"><img src="https://github.com/milivetcher/milivetcher/blob/main/images/bl_4.png" width="200" height="150"/></a> <a href="https://pf-03-cointracker.vercel.app/" target="_blank">
+### Freelance Project
+-I did a web site, these are just some of its features.<br/>
+Technologies <br/>
+React - Redux - JavaScript - HTML - CSS - Bootstrap - Socket.IO - Cloudinary - MongoDB - Node.js - Express.<br/><br/>
+On this website there are three types of users (A and B). In the video you can see the screens and functions of a type A and type B <br/> (A-->Milagros
+ B-->Matilde).<br/><br/>
+The images take time to load because Cloudinary uses internet conexion.<br/>
 
 
 
