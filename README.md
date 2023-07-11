@@ -78,7 +78,9 @@ _____
 #### BALCAOEX
 -I did an internship in <a href="https://www.linkedin.com/company/redocean-software-marketing/">RedOcean</a> for two months and participated in this great project, these are just some of its features.
 🌱(PHP-YII2-JS-MARIADB)🌱<br/><br/>
-<img src="https://github.com/milivetcher/milivetcher/blob/main/images/bl_1.png" width="200" height="150"/><img src="https://github.com/milivetcher/milivetcher/blob/main/images/bl_2.png" width="200" height="150"/></a> <a href="https://pf-03-cointracker.vercel.app/" target="_blank"><img src="https://github.com/milivetcher/milivetcher/blob/main/images/bl_3.png" width="200" height="150"/></a> <a href="https://pf-03-cointracker.vercel.app/" target="_blank"><img src="https://github.com/milivetcher/milivetcher/blob/main/images/bl_4.png" width="200" height="150"/></a> <a href="https://pf-03-cointracker.vercel.app/" target="_blank"><br/>
+<img src="https://github.com/milivetcher/milivetcher/blob/main/images/bl_1.png" width="200" height="150"/><img src="https://github.com/milivetcher/milivetcher/blob/main/images/bl_2.png" width="200" height="150"/>
+<img src="https://github.com/milivetcher/milivetcher/blob/main/images/bl_3.png" width="200" height="150"/>
+<img src="https://github.com/milivetcher/milivetcher/blob/main/images/bl_4.png" width="200" height="150"/>
 ### Freelance Project
 -I did a web site about a factory where are persons with disability. In this web are three types of users. The user type A are those persons with disability. They can choose how they feel, indicate when they take a break and how good they are feeling (with a counter). The user type B can see this information in real time in they dashboard, including when the users type A are login or not. The users B also can delete other users, configure how often some information is save in the data base and send messages to the users A who gonna see it in real time. The user type C can do the same functions of users B and also view the information in a certain date.<br/>These are just some of its features.<br/>
 Technologies <br/>
