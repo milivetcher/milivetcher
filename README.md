@@ -70,8 +70,8 @@ _____
 
 #### Some of my projects:
 ##### Individual Project
-MERN stack project
-The desing of this project it's done with HTML and CSS.
+-MERN stack project-</br>
+<p>The desing of this project it's done with HTML and CSS.</p>
 <a href="https://youtu.be/eWT2gFe_i_c" target="_blank"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/Imagen1.png" width="200" height="150"/></a>  <a href="https://youtu.be/eWT2gFe_i_c" target="_blank"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/Imagen2.png" width="200" height="150"/></a>  <a href="https://youtu.be/eWT2gFe_i_c" target="_blank"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/Imagen3.png" width="200" height="150"/></a>   <a href="https://youtu.be/eWT2gFe_i_c" target="_blank"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/Imagen4.png" width="200" height="150"/></a> 
 
 ##### Grupal Projects:
