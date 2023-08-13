@@ -76,7 +76,7 @@ _____
 
 ##### Grupal Projects:
 #### COINTRACKER
-  <a href="https://pf-03-cointracker.vercel.app/"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/1.png" width="200" height="150"/></a> <a href="https://pf-03-cointracker.vercel.app/" target="_blank"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/4.png" width="200" height="150"/></a>  <a href="https://pf-03-cointracker.vercel.app/" target="_blank"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/7.png" width="200" height="150"/></a><a href="https://pf-03-cointracker.vercel.app/" target="_blank"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/11.png" width="200" height="150"/></a><br/>
+  <a href="https://pf-03-cointracker.vercel.app/"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/1.png" width="200" height="150"/></a> <a href="https://pf-03-cointracker.vercel.app/" target="_blank"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/2.png" width="200" height="150"/></a>  <a href="https://pf-03-cointracker.vercel.app/" target="_blank"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/7.png" width="200" height="150"/></a><a href="https://pf-03-cointracker.vercel.app/" target="_blank"> <img src="https://github.com/milivetcher/milivetcher/blob/main/images/11.png" width="200" height="150"/></a><br/>
 #### BALCAOEX
 -I did an internship in <a href="https://www.linkedin.com/company/redocean-software-marketing/">RedOcean</a> for two months and participated in this great project, these are just some of its features.
 🌱(PHP-YII2-JS-MARIADB)🌱<br/><br/>
